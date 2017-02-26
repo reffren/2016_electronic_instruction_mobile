@@ -1,0 +1,104 @@
+<resources>
+    <string-array name="zayavka_na_okno">
+        <item>Должность выдавшего заявку на "окно"</item>
+        <item>монтер</item>
+        <item>механик</item>
+        <item>мастер</item>
+    </string-array>
+    <string-array name="rucovoditel_rabot">
+        <item>Руководитель работ</item>
+        <item>Петров</item>
+        <item>Иванов</item>
+        <item>Сидоров</item>
+        <item>Нигматуллин</item>
+        <item>Елисеев</item>
+        <item>Крылов</item>
+        <item>Ивачев</item>
+    </string-array>
+    <string-array name="teh_karta">
+        <item>Tex.карта</item>
+        <item>12 КПМ</item>
+        <item>156 ТМ</item>
+        <item>56 ТМК</item>
+    </string-array>
+    <string-array name="data_prikaz">
+        <item>Дата, № приказа</item>
+        <item>12.06.12, №345</item>
+        <item>15.04.10, №29</item>
+        <item>28.02.11, №24</item>
+    </string-array>
+    <string-array name="signalist1">
+        <item>Выбрать ФИО сигналиста №1</item>
+        <item>Петров</item>
+        <item>Иванов</item>
+        <item>Сидоров</item>
+        <item>Нигматуллин</item>
+        <item>Елисеев</item>
+        <item>Крылов</item>
+        <item>Ивачев</item>
+    </string-array>
+    <string-array name="signalist2">
+        <item>Выбрать ФИО сигналиста №2</item>
+        <item>Петров</item>
+        <item>Иванов</item>
+        <item>Сидоров</item>
+        <item>Нигматуллин</item>
+        <item>Елисеев</item>
+        <item>Крылов</item>
+        <item>Ивачев</item>
+    </string-array>
+    <string-array name="signalist3">
+        <item>Выбрать ФИО сигналиста №3</item>
+        <item>Петров</item>
+        <item>Иванов</item>
+        <item>Сидоров</item>
+        <item>Нигматуллин</item>
+        <item>Елисеев</item>
+        <item>Крылов</item>
+        <item>Ивачев</item>
+    </string-array>
+    <string-array name="signalist4">
+    <item>Выбрать ФИО сигналиста №4</item>
+    <item>Петров</item>
+    <item>Иванов</item>
+        <item>Сидоров</item>
+        <item>Нигматуллин</item>
+        <item>Елисеев</item>
+        <item>Крылов</item>
+        <item>Ивачев</item>
+</string-array>
+    <string-array name="soglasovanie">
+        <item>По согласованию</item>
+        <item>Петров</item>
+        <item>Иванов</item>
+        <item>Сидоров</item>
+        <item>Нигматуллин</item>
+        <item>Елисеев</item>
+        <item>Крылов</item>
+        <item>Ивачев</item>
+    </string-array>
+    <string-array name="fioDispetcher">
+        <item>Выбрать ФИО диспетчера</item>
+        <item>Петров</item>
+        <item>Иванов</item>
+        <item>Сидоров</item>
+        <item>Нигматуллин</item>
+        <item>Елисеев</item>
+        <item>Крылов</item>
+        <item>Ивачев</item>
+    </string-array>
+    <string-array name="fioInstructir">
+        <item>Выбрать ФИО инструктирующего</item>
+        <item>Петров</item>
+        <item>Иванов</item>
+        <item>Сидоров</item>
+        <item>Нигматуллин</item>
+        <item>Елисеев</item>
+        <item>Крылов</item>
+        <item>Ивачев</item>
+    </string-array>
+    <string name="app_name">Электронный инструктаж</string>
+    <string name="btnSignIn">Войти</string>
+    <string name="ETPassword">Пароль</string>
+    <string name="ETLogin">Логин</string>
+</resources>
